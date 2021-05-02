@@ -1,2 +1,3 @@
 # FPS
-a simple fps shooter
+FPS is my "First Person Shooter"
+The idea is to make a full working multiplayer game
